@@ -1,4 +1,6 @@
 # PowershellScripts
+Please note*** These scripts were written for Powershell 6 and have not been tested in Powershell 7.
+
 Just a bunch of the powershell scripts i've made for work. They are not perfect, but tend to get the job done.
 
 I hope that this can offer some help to one or more of you, either as a whole, or as snippets. I know I spent many hours trying to find snippets only to code it myself and recode it many times over.
